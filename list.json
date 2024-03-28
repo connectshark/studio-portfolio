@@ -6,6 +6,11 @@
         "name": "Wordpress部落格",
         "cover": "/cover/blog.png",
         "link": "https://blog.justlikeboss.com"
+      },
+      {
+        "name": "Wordpress插件",
+        "cover": "/cover/boss.png",
+        "link": "https://justlikeboss.com/category/wordpress"
       }
     ]
   },
@@ -42,6 +47,21 @@
         "cover": "/cover/form.png",
         "link": "https://connectshark.github.io/multi-steps-form-solution/"
       },
+      {
+        "name": "肯德基優惠券網站",
+        "cover": "/cover/kfc.png",
+        "link": "https://kfc.justlikeboss.com"
+      },
+      {
+        "name": "蝦英雄 | 蝦皮縮網址網站",
+        "cover": "/cover/shopee.png",
+        "link": "https://shopee.nosegates.com"
+      }
+    ]
+  },
+  {
+    "title": "動態API網站",
+    "list": [
       {
         "name": "肯德基優惠券網站",
         "cover": "/cover/kfc.png",
