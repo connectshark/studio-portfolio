@@ -46,16 +46,6 @@
         "name": "表單填寫網站",
         "cover": "/cover/form.png",
         "link": "https://connectshark.github.io/multi-steps-form-solution/"
-      },
-      {
-        "name": "肯德基優惠券網站",
-        "cover": "/cover/kfc.png",
-        "link": "https://kfc.justlikeboss.com"
-      },
-      {
-        "name": "蝦英雄 | 蝦皮縮網址網站",
-        "cover": "/cover/shopee.png",
-        "link": "https://shopee.nosegates.com"
       }
     ]
   },
