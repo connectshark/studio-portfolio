@@ -53,7 +53,12 @@
     "title": "動態API網站",
     "list": [
       {
-        "name": "肯德基優惠券網站",
+        "name": "匯星 | 新台幣換算外幣網站",
+        "cover": "/cover/exchange-star.png",
+        "link": "https://exchange-rate.justlikeboss.com"
+      },
+      {
+        "name": "酷碰獅 | 肯德基優惠券網站",
         "cover": "/cover/kfc.png",
         "link": "https://kfc.justlikeboss.com"
       },
