@@ -1,11 +1,7 @@
 [
   {
-    "url": "https://exchange-rate.justlikeboss.com",
-    "name": "匯星"
-  },
-  {
-    "url": "https://blog.justlikeboss.com",
-    "name": "小資族FIRE攻略"
+    "url": "https://justlikeboss.com",
+    "name": "小資族生存日常"
   },
   {
     "url": "https://coupon.justlikeboss.com",
@@ -18,6 +14,10 @@
   {
     "url": "https://shopee.nosegates.com",
     "name": "蝦英雄"
+  },
+  {
+    "url": "https://exchange-rate.justlikeboss.com",
+    "name": "匯星"
   },
   {
     "url": "https://hidden-taiwan.justlikeboss.com",
